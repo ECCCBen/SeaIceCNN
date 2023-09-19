@@ -24,7 +24,7 @@ Arctic amplification has many impacts on sea-ice extent, thickness, and flux. It
 </p>
 
 > **Warning**
-> Access to RADARSAT-2 data products is not included with this repository. RADARSAT-2 Data and Products © MacDonald, Dettwiler and Associates Ltd. (2023)) – All Rights Reserved. RADARSAT is an official mark of the Canadian Space Agency.
+> Access to RADARSAT-2 data products is not included with this repository. RADARSAT-2 Data and Products © MacDonald, Dettwiler and Associates Ltd. (2023) – All Rights Reserved. RADARSAT is an official mark of the Canadian Space Agency.
 
 ## Environment Configuration
 
