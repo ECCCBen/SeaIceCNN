@@ -57,8 +57,8 @@ Data
 
 ## Exploring the Notebooks
 
-After setting up the environment and data, you may wish to look first at the Table of Contents in [index notebook filename](./index.ipynb) to discover which parts of the code interest you. In order to launch the Table of Contents notebook on your local system, use the following command while inside the activated `seaicecnn` environment:
+After setting up the environment and data, you may wish to look first at the Table of Contents in [the index notebook](./index.ipynb) to discover which parts of the code interest you. In order to launch the Table of Contents notebook on your local system, use the following command while inside the activated `seaicecnn` environment:
 
 ```
-jupyter notebook <name-of-index.ipynb>
+jupyter notebook index.ipynb
 ```
