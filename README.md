@@ -62,14 +62,3 @@ After setting up the environment and data, you may wish to look first at the Tab
 ```
 jupyter notebook <name-of-index.ipynb>
 ```
-
-# Markdown Examples
-
-Image (no control over alignment - check the fig7 html above for alignment-tweaking capability)
-![this is an image](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ujrs20/2023/ujrs20.v049.i01/07038992.2023.2247091/20230912/images/medium/ujrs_a_2247091_f0007_c.jpg)
-
-Equation inline using `$` notation $\sqrt{3x - 1}+(1+x)^2$
-
-Equation block using `$$` notation
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
