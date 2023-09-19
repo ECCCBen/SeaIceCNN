@@ -8,8 +8,8 @@ This repository contains the techniques and code referenced in the following pub
 
 Open-Access Publication: [![Static Badge](https://img.shields.io/badge/Canadian_Journal_of_Remote_Sensing-blue)](https://doi.org/10.1080/07038992.2023.2247091)
 
-Open-Access Dataset: [![DOI](zenodo.svg)](link to zenodo)
-use the auto-update badge thingy https://gist.github.com/seignovert/ae6771f400ca464d294261f42900823a
+Open-Access Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8350643.svg)](https://doi.org/10.5281/zenodo.8350643)
+
 
 ## Abstract
 
@@ -43,15 +43,23 @@ conda activate seaicecnn
 
 ## Data Preparation
 
-To download the datasets used by the notebooks, use the following link
-[zenodo link](zenodo) and place the data inside the correct folder:
+To download the datasets used by the notebooks, use the following 
+[zenodo link](https://doi.org/10.5281/zenodo.8350643) and store the data as shown:
 
 ```
 Data
-├── stuff
-├── things
-|   └── some file
-└── others
+├── AllIceDF.pkl
+├── AllWaterDF.pkl
+├── SeaIceCNN.h5
+├── SeaIceCNN.pkl
+├── TestDataS0_ice_rev.npy
+├── TestDataS0_water_rev.npy
+├── TrainingDataS0_ice_rev.npy
+├── TrainingDataS0_water_rev.npy
+├── WeeklySIC_ASI.pkl
+├── WeeklySIC_CIS.pkl
+├── WeeklySIC_RSAT-2.pkl
+└── means_stds_S0_cnn.pkl
 ```
 
 
