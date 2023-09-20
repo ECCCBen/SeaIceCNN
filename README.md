@@ -38,7 +38,7 @@ conda activate seaicecnn
 > **Warning** 
 > The provided environment.yml file was generated on Windows 10 and may behave differently on Linux or Mac systems.
 
-**Warning** 
+> **Warning** 
 > Some notebooks in this repository require up to 100GB of available RAM to function properly due to the size of in-memory datasets.
 
 > **Warning** 
