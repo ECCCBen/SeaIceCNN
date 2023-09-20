@@ -38,6 +38,9 @@ conda activate seaicecnn
 > **Warning** 
 > The provided environment.yml file was generated on Windows 10 and may behave differently on Linux or Mac systems.
 
+**Warning** 
+> Some notebooks in this repository require up to 100GB of available RAM to function properly due to the size of in-memory datasets.
+
 > **Warning** 
 > if you want to train the model yourself, it is suggested to use an Nvidia GPU as the environment is setup to make use of CUDA acceleration for Tensorflow. You may still train the model without a GPU but it will take considerably longer.
 
